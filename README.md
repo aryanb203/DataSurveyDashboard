@@ -10,3 +10,5 @@ Role-based Salary Analysis: Gain valuable insights into the average salary range
 Happiness with Salary: Discover how survey participants rated their happiness levels in relation to their salaries. This analysis provides a deeper understanding of the correlation between salary and overall satisfaction.
 
 Programming Language Preferences: Explore the survey respondents' favorite programming languages and how they align with their respective roles. This analysis can provide valuable insights into the programming languages most commonly used in various roles.
+
+![image](https://github.com/aryanb203/DataSurveyDashboard/assets/43962969/bac14c21-b848-4d34-80a9-faa58025abff)
